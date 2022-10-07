@@ -172,6 +172,6 @@ header img {
   body {
     background-image: url('images/bg-mobile.svg');
     background-position: top;
-    background-size: auto;
+    background-size: auto 31.25rem;
   }
 }
